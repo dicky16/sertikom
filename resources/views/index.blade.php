@@ -43,7 +43,7 @@
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html">Clubmotor</a></h1>
+      <h1 class="logo me-auto"><a href="/">Clubmotor</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -143,7 +143,7 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-            There are lots of motorbike choices available at our place, we always go forward to serve customers with good service.
+            Our company is a renowned manufacturer and supplier of motor products. With years of experience, we have established ourselves as a trusted name in the market. Our team of skilled professionals works diligently to design, develop, and manufacture a wide range of motor products that meet industry standards and deliver optimum performance.
             </p>
             <a href="#" class="btn-learn-more">Learn More</a>
           </div>
@@ -153,27 +153,28 @@
     </section><!-- End About Us Section -->
 
     <!-- ======= Visi Misi Section ======= -->
-    <section id="visi_misi" class="about">
+    <section id="visi_misi" class="about" style="background-color: #072b58;">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Visi Misi</h2>
+          <h2 style="color: white;">Visi Misi</h2>
         </div>
 
         <div class="row content">
           <div class="col-lg-6">
-          <p>
-              VISI : Become a trusted company in meeting needs
+          <p class="text-white">
+              VISI : 
+              <br>
+              Become a trusted company in meeting needs
 and consumer expectations for owning a motorcycle
             </p>
-            <a href="#" class="btn-learn-more">Learn More</a>
           </div>
            
           <div class="col-lg-6 pt-4 pt-lg-0">
-          <p>
+          <p class="text-white">
               MISI : 
             </p>
-            <ul>
+            <ul class="text-white">
               <li><i class="ri-check-double-line"></i> Provide the best service</li>
               <li><i class="ri-check-double-line"></i> Providing quality and guaranteed products</li>
               <li><i class="ri-check-double-line"></i> Strengthening information technology to support reliable operations</li>
@@ -233,30 +234,13 @@ and consumer expectations for owning a motorcycle
       </div>
     </section><!-- End Services Section -->
 
-    <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
-      <div class="container" data-aos="zoom-in">
-
-        <div class="row">
-          <div class="col-lg-9 text-center text-lg-start">
-            <h3>Artikel</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </div>
-          <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Artikel</a>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Cta Section -->
-
     <!-- ======= Portfolio Section ======= -->
     <section id="product" class="portfolio">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
           <h2>Product</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>We are pleased to present our company profile for motor products. As a leading provider in the industry, we take pride in offering high-quality and reliable motor products that cater to the needs of our valued customers. With a strong commitment to innovation, excellence, and customer satisfaction, we aim to deliver exceptional products that exceed expectations.</p>
         </div>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
@@ -270,7 +254,7 @@ and consumer expectations for owning a motorcycle
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><a href="/1"><img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt=""></a></div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
@@ -288,25 +272,33 @@ and consumer expectations for owning a motorcycle
 
         <div class="section-title">
           <h2>Gallery</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Our gallery showcases the essence and identity of our motor dealer company, providing a visual representation of our brand, values, services, and achievements. With a collection of captivating images and videos, we invite you to explore our world and discover what sets us apart.</p>
         </div>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-1.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/gallery/gallery-1.jpeg" class="img-fluid" alt=""></div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-2.png" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/gallery/gallery-2.jpeg" class="img-fluid" alt=""></div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/gallery/gallery-3.jpeg" class="img-fluid" alt=""></div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-4.png" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/gallery/gallery-4.jpeg" class="img-fluid" alt=""></div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-img"><img src="assets/img/gallery/gallery-5.jpeg" class="img-fluid" alt=""></div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-img"><img src="assets/img/gallery/gallery-6.jpeg" class="img-fluid" alt=""></div>
           </div>
 
         </div>
@@ -320,16 +312,16 @@ and consumer expectations for owning a motorcycle
 
         <div class="section-title">
           <h2>Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>At our motor dealer company, we have a passionate and dedicated team that forms the backbone of our success. Each member of our team brings a unique set of skills, expertise, and enthusiasm to deliver exceptional service to our valued customers. We take pride in our cohesive and customer-centric team, working together to provide an unmatched experience in the world of motorcycles.</p>
         </div>
 
         <div class="row">
 
           <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Walter White</h4>
+                <h4>Selvia</h4>
                 <span>Chief Executive Officer</span>
                 <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
                 <div class="social">
@@ -346,43 +338,9 @@ and consumer expectations for owning a motorcycle
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
+                <h4>Mega</h4>
                 <span>Product Manager</span>
                 <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
-                <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="300">
-            <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
-                <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="400">
-            <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -403,54 +361,38 @@ and consumer expectations for owning a motorcycle
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Pricing</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Blog</h2>
         </div>
 
         <div class="row">
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="box">
-              <h3>Free Plan</h3>
-              <h4><sup>$</sup>0<span>per month</span></h4>
-              <ul>
-                <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-                <li class="na"><i class="bx bx-x"></i> <span>Pharetra massa massa ultricies</span></li>
-                <li class="na"><i class="bx bx-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-              </ul>
-              <a href="#" class="buy-btn">Get Started</a>
+              <h3>The best motocycle in 2023</h3>
+              <p>
+              As we step into the year 2023, the motorcycle industry continues to evolve with cutting-edge technology, groundbreaking designs, and unparalleled performance. With an array of options available, riders are spoilt for choice when it comes to selecting the perfect motorcycle. In this article, we present a selection of the best motorcycles in 2023 that are set to redefine the riding experience and capture the hearts of enthusiasts around the world.
+              </p>
+              <a href="#" class="buy-btn">Read more</a>
             </div>
           </div>
 
-          <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-            <div class="box featured">
-              <h3>Business Plan</h3>
-              <h4><sup>$</sup>29<span>per month</span></h4>
-              <ul>
-                <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-                <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
-                <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
-              </ul>
-              <a href="#" class="buy-btn">Get Started</a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="box">
-              <h3>Developer Plan</h3>
-              <h4><sup>$</sup>49<span>per month</span></h4>
-              <ul>
-                <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-                <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
-                <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
-              </ul>
-              <a href="#" class="buy-btn">Get Started</a>
+              <h3>The Phenomenal Growth of Motorcycles in Indonesia</h3>
+              <p>
+              Indonesia, known for its vibrant culture, breathtaking landscapes, and bustling cities, has also emerged as a hotbed for motorcycles. With its unique transportation needs and a growing middle class, Indonesia has witnessed a remarkable surge in motorcycle ownership and usage. In this article, we delve into the factors driving the popularity of motorcycles in Indonesia and how they have become an integral...
+              </p>
+              <a href="#" class="buy-btn">Read more</a>
+            </div>
+          </div>
+
+          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="box">
+              <h3>The Evolution of Indonesian Motorcycle Industry: Embracing Innovation and Sustainability</h3>
+              <p>
+              Indonesia's motorcycle industry has witnessed significant growth and transformation over the years. As the country embraces innovation and sustainability, the motorcycle industry has been quick to adapt and evolve. In this article, we explore the advancements and trends shaping Indonesia's motorcycle industry, highlighting how it is embracing ...
+              </p>
+              <a href="#" class="buy-btn">Read more</a>
             </div>
           </div>
 
@@ -467,7 +409,7 @@ and consumer expectations for owning a motorcycle
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Our contact department is staffed with a team of dedicated professionals who are committed to providing excellent customer service and support.</p>
         </div>
 
         <div class="row">
@@ -492,35 +434,12 @@ and consumer expectations for owning a motorcycle
                 <p>+6285668829929</p>
               </div>
 
-          </div>
+              <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h4>Fax:</h4>
+                <p>+6285668829929</p>
+              </div>
 
-          <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="row">
-                <div class="form-group col-md-6">
-                  <label for="name">Your Name</label>
-                  <input type="text" name="name" class="form-control" id="name" required>
-                </div>
-                <div class="form-group col-md-6">
-                  <label for="name">Your Email</label>
-                  <input type="email" class="form-control" name="email" id="email" required>
-                </div>
-              </div>
-              <div class="form-group">
-                <label for="name">Subject</label>
-                <input type="text" class="form-control" name="subject" id="subject" required>
-              </div>
-              <div class="form-group">
-                <label for="name">Message</label>
-                <textarea class="form-control" name="message" rows="10" required></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
           </div>
 
         </div>
@@ -532,20 +451,6 @@ and consumer expectations for owning a motorcycle
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
-
-    <div class="footer-newsletter">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-6">
-            <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
 
     <div class="footer-top">
       <div class="container">
@@ -560,28 +465,6 @@ and consumer expectations for owning a motorcycle
               <strong>Phone:</strong> +6285668829929<br>
               <strong>Email:</strong> clubmotorsby@gmail.com<br>
             </p>
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Event</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Event</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-            </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">

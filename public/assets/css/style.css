@@ -1822,3 +1822,7 @@ section {
     padding-top: 4px;
   }
 }
+
+.text-white {
+  color: white;
+}
